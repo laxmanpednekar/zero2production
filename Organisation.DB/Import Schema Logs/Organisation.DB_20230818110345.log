@@ -1,0 +1,82 @@
+8/18/2023 4:33:45 PM	This log contains information about the import schema operation into project 'Organisation.DB' on computer 'SYSLP1128' by user 'laxman.pednekar'.
+8/18/2023 4:33:46 PM	Import of database schema has started.
+8/18/2023 4:34:06 PM	Gathering database credentials
+8/18/2023 4:34:06 PM	Gathering database options
+8/18/2023 4:34:06 PM	Gathering generic database scoped configuration option
+8/18/2023 4:34:06 PM	Gathering users
+8/18/2023 4:34:06 PM	Gathering roles
+8/18/2023 4:34:06 PM	Gathering application roles
+8/18/2023 4:34:06 PM	Gathering role memberships
+8/18/2023 4:34:06 PM	Gathering filegroups
+8/18/2023 4:34:06 PM	Gathering full-text catalogs
+8/18/2023 4:34:06 PM	Gathering assemblies
+8/18/2023 4:34:06 PM	Gathering certificates
+8/18/2023 4:34:06 PM	Gathering asymmetric keys
+8/18/2023 4:34:06 PM	Gathering symmetric keys
+8/18/2023 4:34:06 PM	Gathering encrypted symmetric keys
+8/18/2023 4:34:06 PM	Gathering schemas
+8/18/2023 4:34:06 PM	Gathering XML schema collections
+8/18/2023 4:34:06 PM	Gathering user-defined data types
+8/18/2023 4:34:06 PM	Gathering user-defined types
+8/18/2023 4:34:06 PM	Gathering table types
+8/18/2023 4:34:06 PM	Gathering unique keys for table types
+8/18/2023 4:34:06 PM	Gathering primary keys for table types
+8/18/2023 4:34:06 PM	Gathering indexes for table types
+8/18/2023 4:34:07 PM	Gathering check constraints for table types
+8/18/2023 4:34:07 PM	Gathering default constraints for table types
+8/18/2023 4:34:07 PM	Gathering partition functions
+8/18/2023 4:34:07 PM	Gathering partition schemes
+8/18/2023 4:34:07 PM	Gathering functions
+8/18/2023 4:34:07 PM	Gathering encrypted functions
+8/18/2023 4:34:07 PM	Gathering aggregates
+8/18/2023 4:34:07 PM	Gathering procedures
+8/18/2023 4:34:07 PM	Gathering encrypted procedures
+8/18/2023 4:34:07 PM	Gathering tables
+8/18/2023 4:34:07 PM	Gathering primary keys
+8/18/2023 4:34:07 PM	Gathering unique constraints
+8/18/2023 4:34:07 PM	Gathering foreign keys
+8/18/2023 4:34:07 PM	Gathering default constraints
+8/18/2023 4:34:07 PM	Gathering check constraints
+8/18/2023 4:34:07 PM	Gathering views
+8/18/2023 4:34:07 PM	Gathering encrypted views
+8/18/2023 4:34:07 PM	Gathering indexes
+8/18/2023 4:34:07 PM	Gathering statistics
+8/18/2023 4:34:07 PM	Gathering full-text index stoplists
+8/18/2023 4:34:07 PM	Gathering search property lists
+8/18/2023 4:34:07 PM	Gathering search properties
+8/18/2023 4:34:07 PM	Gathering full-text indexes
+8/18/2023 4:34:07 PM	Gathering column store indexes
+8/18/2023 4:34:07 PM	Gathering spatial indexes
+8/18/2023 4:34:09 PM	Gathering XML indexes
+8/18/2023 4:34:09 PM	Gathering Selective XML indexes
+8/18/2023 4:34:09 PM	Gathering encrypted triggers
+8/18/2023 4:34:09 PM	Gathering triggers
+8/18/2023 4:34:09 PM	Gathering encrypted and clr ddl triggers
+8/18/2023 4:34:09 PM	Gathering ddl triggers
+8/18/2023 4:34:09 PM	Creating edge constraints
+8/18/2023 4:34:09 PM	Gathering synonyms
+8/18/2023 4:34:09 PM	Gathering defaults
+8/18/2023 4:34:09 PM	Gathering data constraint uddt bindings
+8/18/2023 4:34:09 PM	Gathering rules
+8/18/2023 4:34:09 PM	Gathering data constraint uddt bindings
+8/18/2023 4:34:09 PM	Gathering message types
+8/18/2023 4:34:09 PM	Gathering queues
+8/18/2023 4:34:09 PM	Gathering contracts
+8/18/2023 4:34:09 PM	Gathering services
+8/18/2023 4:34:09 PM	Gathering event notifications
+8/18/2023 4:34:09 PM	Gathering remote service bindings
+8/18/2023 4:34:09 PM	Gathering broker priorities
+8/18/2023 4:34:09 PM	Gathering signatures
+8/18/2023 4:34:09 PM	Gathering data compression options
+8/18/2023 4:34:09 PM	Gathering sequence types
+8/18/2023 4:34:09 PM	Gathering security policies
+8/18/2023 4:34:09 PM	Gather column encryption keys
+8/18/2023 4:34:09 PM	Gathering column master keys
+8/18/2023 4:34:09 PM	Gathering external data sources
+8/18/2023 4:34:09 PM	Gathering external file formats
+8/18/2023 4:34:09 PM	Gathering external tables
+8/18/2023 4:34:09 PM	Gathering extended properties
+8/18/2023 4:34:09 PM	Gathering assemblies
+8/18/2023 4:34:10 PM	Finished importing database.
+8/18/2023 4:34:10 PM	A summary of the import was saved to the following location: C:\Laxman\Git\General POCs\WebApiTutorial\Main\Organisation.DB\Import Schema Logs\Organisation.DB_20230818110345.log
+8/18/2023 4:34:10 PM	Click Finish to continue...
